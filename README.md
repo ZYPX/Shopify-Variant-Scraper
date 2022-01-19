@@ -1,6 +1,6 @@
 # Shopify Variant Scraper
 
-Simple discord bot used to pull variants for products on any Shopify store view the discord embed message example [here](https://zachary-frontend-challenge.herokuapp.com/)
+Simple discord bot used to pull variants for products on any Shopify store. View an example discord embed message [here](https://zachary-frontend-challenge.herokuapp.com/)
 
 ## Installation
 
